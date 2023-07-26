@@ -8,6 +8,10 @@
     border-bottom: 1px solid #e5e5e5;
 }
 
+footer{
+    background-color: #ffc107;
+}
+
 footer p a{
-    padding: 0 10px;
+    padding-right: 10px;
 }
