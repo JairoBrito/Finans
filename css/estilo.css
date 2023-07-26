@@ -15,3 +15,7 @@ footer{
 footer p a{
     padding-right: 10px;
 }
+
+hr{
+    border: #ffc107 solid 1px;
+}
